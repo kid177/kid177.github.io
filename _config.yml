@@ -1,0 +1,5 @@
+markdown: rdiscount
+permalink: /:title/
+author: kid177
+pygments: true
+paginate: 16
