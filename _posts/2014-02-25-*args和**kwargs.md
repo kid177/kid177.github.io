@@ -3,7 +3,7 @@ title: "*args和**kwargs"
 layout: post
 categories: [python, stackoverflow]
 tags: [tips,翻译]
-published: yes
+published: no
 ---
 
 StackOverFlow
